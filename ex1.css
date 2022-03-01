@@ -1,0 +1,33 @@
+#b{
+    text-align: center;
+    background-color: rgb(233, 204, 183);
+}
+pre{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(167, 152, 95);
+
+}
+
+.n{
+    font-family: monospace;
+    font-size: 22px;
+    font-style: italic;
+    color: rgb(155, 95, 18);
+}
+
+.f{
+    background-color: bisque;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: double;
+    font-size: 25px;
+}
+
+.r{
+    background-color: gainsboro;
+    color:darkcyan;
+    font-family: monospace;
+    font-size: 18px;
+}
